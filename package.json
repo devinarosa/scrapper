@@ -1,0 +1,18 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "trial scrapping",
+  "main": "detik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapping"
+  ],
+  "author": "devina",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
